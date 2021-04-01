@@ -1,0 +1,1 @@
+let member_dict = {"\uc6b4\uc601\ud300": -1, "6": "\ud83d\udc30", "\ud83d\udc30": 6, "1": "\ud83c\udf38", "\ud83c\udf38": 1, "7": "\uad11\ubc30", "\uad11\ubc30": 7, "3": "\ud83d\udc24", "\ud83d\udc24": 3, "9": "\ud83d\udc2f", "\ud83d\udc2f": 9, "10": "\ud83e\udd8a", "\ud83e\udd8a": 10, "2": "\ud83d\udc39", "\ud83d\udc39": 2, "4": "\ud83d\udc36", "\ud83d\udc36": 4}
